@@ -1,3 +1,3 @@
 # test
 
-![Frontend Preview](src/assets/for aman.png)
+![Frontend Preview](https://github.com/akshayDeq/test/blob/main/src/asset/for%20aman.png)
